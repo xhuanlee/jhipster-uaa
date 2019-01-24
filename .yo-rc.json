@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.uaa",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.jhipster.uaa",
+    "packageFolder": "com/jhipster/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDEyM2IwNzFhODQ2Nzc0MDA1ZDE3ZmU4ODFhMTQ2NzFlOTBhYTFmMTY5MWE1MTE0MWQwYjljZTM4NmQwYWIzODg4NzJjZjg5ZGFjZTFjYThmOTg1YTJmZTQzMmRjOGVjNDUwNGQ1NGJjM2NjNWE3MTU2NzIzNTkyMWMwYjY1ZTk=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "skipClient": true
+  }
+}
